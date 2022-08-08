@@ -1,1 +1,0 @@
-This folder consists of the download and edit pages of the Terms and Condition and Private Policy generator.
